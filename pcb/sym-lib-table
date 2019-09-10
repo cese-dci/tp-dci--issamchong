@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name mylib)(type Legacy)(uri "C:/Users/6530/Google Drive/Embeded systems/CESE-CURSOS/cese-pcb/Final TP/library/mylib.lib")(options "")(descr ""))
+  (lib (name Final-TP-rescue)(type Legacy)(uri "${KIPRJMOD}/Final TP-rescue.lib")(options "")(descr ""))
+)
